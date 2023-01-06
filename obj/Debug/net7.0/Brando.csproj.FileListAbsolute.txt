@@ -1,0 +1,15 @@
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\bin\Debug\net7.0\Brando.exe
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\bin\Debug\net7.0\Brando.deps.json
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\bin\Debug\net7.0\Brando.runtimeconfig.json
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\bin\Debug\net7.0\Brando.dll
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\bin\Debug\net7.0\Brando.pdb
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.csproj.AssemblyReference.cache
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.AssemblyInfoInputs.cache
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.AssemblyInfo.cs
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.csproj.CoreCompileInputs.cache
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.dll
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\refint\Brando.dll
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.pdb
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\Brando.genruntimeconfig.cache
+C:\Users\DaniloDiniz\Documents\Csharp\Brando\obj\Debug\net7.0\ref\Brando.dll
