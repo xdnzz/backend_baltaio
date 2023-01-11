@@ -1,14 +1,16 @@
+using Balta.SharedContext;
+
 namespace Balta.ContentContext
 {
-    public class Content
+    public abstract class Content : Base
     {
 
-         public Content()
+         public Content(string title, string url)
          {
             //Método construtor
-            Id = Guid.NewGuid(); //SPOF, Single Point of Failure
+            Title = title;
+            Url = url;
          }
-        public Guid Id { get; set; }
         public string Title { get; set; }
         public string Url { get; set; }
     }
